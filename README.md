@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvadnya Lad
 
-<!--
-**sarvadnyalad/sarvadnyalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science student at the University of Leicester  
+🔐 Interested in Cybersecurity, Cryptanalysis, and CTF challenges  
+🛠️ Currently completed building an **Interactive Cryptanalysis Tool** for classical ciphers using Python & Flask  
+🌱 Learning: Network security, Nmap, Burp Suite, TryHackMe SOC Level 1, building projects  
+💼 Open to: Graduate roles in cybersecurity, SOC analyst, or entry-level cyber roles (UK/Remote)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+## 📌 Pinned Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarvadnyalad&repo=Cryptanalysis-and-cryptography-of-classical-ciphers)](https://github.com/sarvadnyalad/Cryptanalysis-and-cryptography-of-classical-ciphers)
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvadnya-lad-23793421b/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/sarvadnyalad)
+
+---
+
+⭐️ Thank you for visiting my profile!
