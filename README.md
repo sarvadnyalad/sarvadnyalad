@@ -3,8 +3,8 @@
 🎓 MSc Computer Science student at the University of Leicester  
 🔐 Interested in Cybersecurity, Cryptanalysis, and CTF challenges  
 🛠️ Currently completed building an **Interactive Cryptanalysis Tool** for classical ciphers using Python & Flask  
-🌱 Learning: Network security, Nmap, Burp Suite, TryHackMe SOC Level 1, building projects  
-💼 Open to: Graduate roles in cybersecurity, SOC analyst, or entry-level cyber roles (UK/Remote)
+🌱 Learning: Cloud Security, Network security, Nmap, Burp Suite, TryHackMe SOC Level 1, building projects  
+💼 Open to: Graduate roles in cybersecurity, SOC analyst, Cloud Security or entry-level cyber roles (UK/Remote)
 
 ---
 
